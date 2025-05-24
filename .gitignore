@@ -1,4 +1,1 @@
-large_file.csv
-chunk_file.csv
-File chunk_file.csv
-File large_file.csv
+*.csv
