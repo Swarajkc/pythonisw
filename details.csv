@@ -1,5 +1,3 @@
-id,name,age,school,high_school,graduation,grad_major,grad_minor
-STU001,Amit Pathak,24,85,75,70,Computers,Sociology
-STU002,Yash Kotian,32,80,58,49,Biology,Chemistry
-STU003,Aanchal Singh,28,90,70,65,Art,IT
-STU004,Juhi Vadia,23,95,89,83,IT,Social
+version https://git-lfs.github.com/spec/v1
+oid sha256:73ffe0cccc2f314a045c12de8d4c18d080666d0a7536e8487ccfcbb46cc8bf80
+size 249

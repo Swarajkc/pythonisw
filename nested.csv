@@ -1,5 +1,3 @@
-person_name_first,person_name_last,person_address_street,person_address_city,person_contacts_contact_type,person_contacts_contact_value
-John,Doe,Main Street,Springfield,email,john.doe@example.com
-John,Doe,Main Street,Springfield,phone,123456789
-Jane,Smith,Second Street,Metropolis,email,jane.smith@example.com
-Jane,Smith,Second Street,Metropolis,phone,987654321
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d4fbbf2b81410ddafd054ef2fb789bb6f7db3444122984e301182fcc3323034
+size 367

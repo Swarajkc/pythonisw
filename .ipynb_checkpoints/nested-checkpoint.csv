@@ -1,3 +1,3 @@
-person_name_first,person_name_last,person_address_street,person_address_city,person_contacts_contact_type,person_contacts_contact_value
-John,Doe,Main Street,Springfield,phone,123456789
-Jane,Smith,Second Street,Metropolis,phone,987654321
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e2a409455fce8239fcff8377078f1ce1545bb61a913991beb05672b8dfb9018
+size 240
