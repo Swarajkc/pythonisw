@@ -1,0 +1,50 @@
+{
+    "root": {
+        "person": [
+            {
+                "name": {
+                    "first": "John",
+                    "last": "Doe"
+                },
+                "address": {
+                    "street": "Main Street",
+                    "city": "Springfield"
+                },
+                "contacts": {
+                    "contact": [
+                        {
+                            "type": "email",
+                            "value": "john.doe@example.com"
+                        },
+                        {
+                            "type": "phone",
+                            "value": "123456789"
+                        }
+                    ]
+                }
+            },
+            {
+                "name": {
+                    "first": "Jane",
+                    "last": "Smith"
+                },
+                "address": {
+                    "street": "Second Street",
+                    "city": "Metropolis"
+                },
+                "contacts": {
+                    "contact": [
+                        {
+                            "type": "email",
+                            "value": "jane.smith@example.com"
+                        },
+                        {
+                            "type": "phone",
+                            "value": "987654321"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <person>
+        <name>John Doe</name>
+        <phone>123-456-7890</phone>
+        <email>john.doe@example.com</email>
+        <date>2025-01-22</date>
+        <country>USA</country>
+    </person>
+    <person>
+        <name>Jane Smith</name>
+        <phone>987-654-3210</phone>
+        <email>jane.smith@example.com</email>
+        <date>2025-01-20</date>
+        <country>Canada</country>
+    </person>
+    <person>
+        <name>Tom Harris</name>
+        <phone>555-123-4567</phone>
+        <email>tom.harris@example.com</email>
+        <date>2025-01-18</date>
+        <country>UK</country>
+    </person>
+</root>
