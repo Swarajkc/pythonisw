@@ -1,5 +1,1 @@
-apple
-banana
-cherry
-date
-elderberry
+Pineapple done using write mode.Content appended to the file.
