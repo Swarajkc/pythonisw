@@ -1,1 +1,0 @@
-Pineapple done using write mode.Content appended to the file.
